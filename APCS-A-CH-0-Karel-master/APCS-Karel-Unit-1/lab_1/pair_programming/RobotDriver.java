@@ -8,6 +8,7 @@ public class RobotDriver implements Directions
     public static void main(String args[])  {
         BeeperBot Cam = new BeeperBot(4,1,West,0);
         Cam.showdemhowitsdun();
+        //test
         Cam.turnOff();
     } 
 
