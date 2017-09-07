@@ -1,9 +1,9 @@
 #BlueJ package file
-dependency1.from=Problem1Driver
-dependency1.to=Problem1
+dependency1.from=HarvesterRunner
+dependency1.to=ConditionalHarvester
 dependency1.type=UsesDependency
-dependency2.from=HarvesterRunner
-dependency2.to=ConditionalHarvester
+dependency2.from=Problem1Driver
+dependency2.to=Problem1
 dependency2.type=UsesDependency
 objectbench.height=95
 objectbench.width=760
@@ -46,8 +46,8 @@ target3.showInterface=false
 target3.type=ClassTarget
 target3.typeParameters=
 target3.width=80
-target3.x=270
-target3.y=180
+target3.x=340
+target3.y=90
 target4.height=50
 target4.name=ConditionalHarvester
 target4.showInterface=false
